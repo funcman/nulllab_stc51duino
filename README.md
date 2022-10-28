@@ -6,9 +6,10 @@
 
 1、**文件->首选项**
 
-2、在附加开发板管理器网址输入如下网址：
+2、在附加开发板管理器网址输入如下网址（<font color=red>使用NullLab原本的包导入地址，是无法安装的。请使用本Repo修复后的地址</font>）：
 
 > ~~https://cdn.jsdelivr.net/gh/nulllaborg/nulllab_stc51duino/package_nulllab_stc51duino_proxy_index.json~~
+
 > https://raw.githubusercontent.com/funcman/nulllab_stc51duino/main/package_nulllab_stc51duino_proxy_index.json
 
 ![](./doc/option_zh.png)
